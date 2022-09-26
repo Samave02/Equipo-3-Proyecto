@@ -1,1 +1,1 @@
-# Equipo-3-Proyecto
+#### Proyeto ciclo 3 MinTic
